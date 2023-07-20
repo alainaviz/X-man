@@ -1,0 +1,17 @@
+body{
+    font-family: "oxanium", cursive;
+    background-color: #000000;
+    color: #ffffff;
+}
+.header{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+}
+.selector-characters{
+    background-color: violet;
+    display: flex;
+}
+.selector-characters .list-characters{
+    
+}
