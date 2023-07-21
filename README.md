@@ -3,3 +3,4 @@ Projeto do Curso da Dev em Dobro
 ## Atualizando README
 ## Comando Push
 ## Comando Pull
+## Git Fetch
